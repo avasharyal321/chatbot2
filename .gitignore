@@ -1,0 +1,17 @@
+# Vector database — auto-generated, never commit
+chroma_db/
+
+# Python virtual environment — machine specific, very large
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables (if you ever add a .env file)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
